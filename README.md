@@ -1,4 +1,4 @@
-<img src="https://github.com/IshanHunt77/IshanHunt77/blob/main/Gemini_Generated_Image_hfn7xghfn7xghfn7.png" width="75%">
+<img src="https://github.com/IshanHunt77/IshanHunt77/blob/main/Gemini_Generated_Image_hfn7xghfn7xghfn7.png" width="50%">
 
 ## Hi there 👋 I'm Ishan Raghuvanshi
 

@@ -5,23 +5,24 @@
 🦀 Currently learning **Rust**  
 🎬 Recently built a **Movie Recommendation Website**  
 📫 Reach me at: **ishan.230101061@iiitbh.ac.in**  
-😄 Pronouns: **he/him**
+😄 Pronouns: **he/him**  
+🐦 X (formerly Twitter): [@ishan.sol@chupKrjaIshan](https://x.com/chupKrjaIshan)
 
 ---
 
 ### 🔧 Technologies & Tools
-- **Languages:** JavaScript, Solidity, Rust (learning), Python , NextJS
+- **Languages:** JavaScript, Solidity, Rust (learning), Python, Next.js  
 - **Frontend:** React, Vite, Tailwind CSS  
-- **Backend:** Node.js, Express, MongoDB ,Prisma 
+- **Backend:** Node.js, Express, MongoDB, Prisma  
 - **Blockchain:** Ethereum (Solidity), Web3.js  
 - **Other:** Git, GitHub, Postman, Docker
 
 ---
 
 ### 🌱 Currently Learning
-- Rust programming
-- Smart Contract Development
-- Advanced backend architecture
+- Rust programming  
+- Smart Contract Development  
+- Advanced backend architecture  
 
 ---
 
@@ -32,3 +33,9 @@ I love building things from scratch — whether it’s a decentralized app or a 
 
 ### 📌 Projects to Explore
 Check out my repositories to see what I’ve been building recently — especially my **Movie Recommendation Website**!
+
+---
+
+### 📊 GitHub Stats
+
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshanHunt77&show_icons=true&theme=radical)

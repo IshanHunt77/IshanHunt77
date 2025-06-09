@@ -1,4 +1,4 @@
-<img src="https://github.com/IshanHunt77/IshanHunt77/blob/main/Gemini_Generated_Image_hfn7xghfn7xghfn7.png" width="50%">
+<p align="center"><img src="https://images.hdqwalls.com/download/the-darth-vader-star-wars-4k-sb-3840x2160.jpg" width="75%"></p>
 
 ## Hi there 👋 I'm Ishan Raghuvanshi
 
@@ -27,9 +27,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IshanHunt77&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IshanHunt77&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanHunt77&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=IshanHunt77&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IshanHunt77&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanHunt77&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IshanHunt77&icon=0&color=0)](https://visitcount.itsvg.in)

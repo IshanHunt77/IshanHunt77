@@ -1,4 +1,4 @@
-<p align="center"><img src="https://images.hdqwalls.com/download/the-darth-vader-star-wars-4k-sb-3840x2160.jpg" width="75%"></p>
+<p align="center"><img src="https://images.hdqwalls.com/download/the-darth-vader-star-wars-4k-sb-3840x2160.jpg" width="100%"></p>
 
 ## Hi there 👋 I'm Ishan Raghuvanshi
 

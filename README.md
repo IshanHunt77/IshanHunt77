@@ -8,7 +8,7 @@ I'm Ishan Raghuvanshi
 🎓 Computer Science Student at **Indian Institute of Information Technology, Bhagalpur** (2023–2027)  
 🧑‍💻 Web2 & Web3 Developer  
 🦀 Currently learning **Rust** 🎬 Recently built a **Movie Recommendation Website**  
-📫 Reach me at: **ishan.230101061@iiitbh.ac.in**  
+📫 Reach me at: **ishanraghuvanshi046@gmail.com**  
 😄 Pronouns: **he/him** 🐦 X (formerly Twitter): [@chupKrjaIshan](https://x.com/chupKrjaIshan)
 
 ---

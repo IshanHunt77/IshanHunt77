@@ -9,7 +9,7 @@ I'm Ishan Raghuvanshi
 🧑‍💻 Web2 & Web3 Developer  
 🦀 Currently learning **Rust** 🎬 Recently built a **Movie Recommendation Website**  
 📫 Reach me at: **ishanraghuvanshi046@gmail.com**  
-😄 Pronouns: **he/him** 🐦 X (formerly Twitter): [@chupKrjaIshan](https://x.com/chupKrjaIshan)
+😄 Pronouns: **he/him** 🐦 X (formerly Twitter): [@ishanwtss](https://x.com/ishantwtss)
 
 ---
 
